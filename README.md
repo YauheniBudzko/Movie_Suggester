@@ -1,4 +1,4 @@
-# Movie_Suggester
+# Movie Suggester
 
 A content-based movie recommendation system built with Python, Flask, and Natural Language Processing (NLP).
 
@@ -12,7 +12,7 @@ The application analyzes movie descriptions, genres, and keywords to recommend f
 https://sugmov2.onrender.com/
 
 **GitHub Repository:**  
-https://github.com/YauheniBudzko/Movie_Suggester
+https://github.com/YauheniBudzko/movie_suggester
 
 ---
 
@@ -152,7 +152,7 @@ Example recommendation:
 ## Project Structure
 
 ```bash
-Movie Suggester/
+movie_suggester/
 │
 ├── static/
 │   └── style.css
@@ -185,8 +185,8 @@ Movie Suggester/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YauheniBudzko/Movie_Suggester.git
-cd Movie_Suggester
+git clone https://github.com/YauheniBudzko/movie_suggester.git
+cd movie_suggester
 ```
 
 ### 2. Create a virtual environment
@@ -222,5 +222,3 @@ Git Large File Storage (Git LFS) is used to store large model files such as `sim
 ## Author
 Machine Learning & Full-Stack Project
 Created by Yauheni Budzko
-
-
